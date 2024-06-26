@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rahulchavan136
+- 👋 Hi, I’m Mr.Rahul Chavan
 - 👀 I’m interested in Front End 
-- 🌱 I’m currently learning Javascript framework like Reactjs and Next js
+- 🌱 I’m currently learning Javascript Framework like ReactJs and Next Js
  - 📫 How to reach me : GitHub
 - 😄 Pronouns: Rahul
 
